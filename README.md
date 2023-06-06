@@ -1,7 +1,6 @@
 # Automation_Script
 For learning Automation using Bash and Git hub
 
-
 Each and every Repositories will have a .Read file.
 
 So please maintain a good and descriptive Readme.md file.
@@ -15,11 +14,11 @@ So please maintain a good and descriptive Readme.md file.
 ### Common Git commands:-
 
 '''
-$ git clone repository_url.git     ; download repository form Github
-$ git add filename or git add .    ; git will start tracking all the changes that you made
-$ git commit -m "your change"      ; it will do commit
-$ git push                         ; push the code to git hub (using PAT if required)
-$ git pull
+$ git clone repository_url.git     ; download repository form Github                                                
+$ git add filename or git add .    ; git will start tracking all the changes that you made                          
+$ git commit -m "your change"      ; it will do commit                                                              
+$ git push                         ; push the code to git hub (using PAT if required)                               
+$ git pull                                                                                                          
 '''
 
 Test
