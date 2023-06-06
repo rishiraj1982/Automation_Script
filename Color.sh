@@ -6,4 +6,5 @@
 echo -e "\e[32m I am printing in color \e[0m"
 echo -e "\e[33m I am printing in color \e[0m"
 
+# Frontend and Backgroud color will change.
 echo -e "\e[43;32m I am printing in color \e[0m"
